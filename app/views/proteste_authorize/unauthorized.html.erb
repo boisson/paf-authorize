@@ -1,0 +1,8 @@
+<div class="error_box">
+  <h1><%=t('general.headers.unauthorized')%></h1>
+  <p><%=t('general.terms.unauthorized_message')%></p>
+  <a href="/" class="back_link btn btn-small"><%=t('general.actions.go_back')%></a>
+  <% if defined? current_user %>
+  <a href="<%=proteste_auth_logout_path%>" class="back_link btn btn-small"><%=t('general.actions.logout')%></a>
+  <% end -%>
+</div>

@@ -1,0 +1,8 @@
+en:
+  general:
+    headers:
+      unauthorized: 'Access unauthorized'
+    terms:
+      unauthorized_message: 'You do not have access to this area'
+    actions:
+      go_back: 'Go back'

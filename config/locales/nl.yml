@@ -1,0 +1,8 @@
+nl:
+  general:
+    headers:
+      unauthorized: 'Toegang niet geautoriseerd'
+    terms:
+      unauthorized_message: 'Je hebt geen toegang tot dit gedeelte'
+    actions:
+      go_back: 'Ga terug'

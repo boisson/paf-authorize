@@ -1,0 +1,8 @@
+fr:
+  general:
+    headers:
+      unauthorized: 'Accès non autorisé'
+    terms:
+      unauthorized_message: "Vous n'avez pas accès à cette zone"
+    actions:
+      go_back: 'Retour'

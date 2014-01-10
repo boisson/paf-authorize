@@ -1,0 +1,8 @@
+pt-BR:
+  general:
+    headers:
+      unauthorized: 'Acesso não autorizado'
+    terms:
+      unauthorized_message: 'Você não possui acesso a esta área'
+    actions:
+      go_back: 'Voltar'
