@@ -4,4 +4,4 @@ source 'https://rubygems.org'
 gemspec
 gem 'actionpack'
 gem 'rspec'
-gem 'autotest'
+gem 'autotest-standalone'
